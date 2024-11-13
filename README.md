@@ -1,10 +1,20 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Javier Garrido Terrón</h1>
 
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br>
 
-
+- :school: I am a programming student eager to learn and work in the sector.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a programmer who takes his job very seriously and shows a lot of dedication.
+- :student: I’m currently learning `Web development` and `Multiplatform development`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1LN-WWstz2mYD9z4bwMqOF8J9z3-QODlF/view?usp=sharing).
+- :boom: You can visit [MY WEBSITE]`COMING-SOON`.
+<br>
 
 
 ## My Skills Include
@@ -17,14 +27,12 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
-  
 </span>
 
 <h4> Databases </h4>
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="">
 </span>
 
 
@@ -41,17 +49,7 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  
-
 </span>
-
-
-
-
-
-
-
-
 
 
 # 📊 GitHub Stats:
@@ -74,7 +72,3 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-
-
-
-
