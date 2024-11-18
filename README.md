@@ -56,9 +56,8 @@
 <p align="center">
 	<a href="https://github.com/JaviGT97">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JaviGT97&show_icons=true" alt="JaviGT97">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=JaviGT97" alt="JaviGT97">
+	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JaviGT97" alt="GitHub Streak" /></a>
 	</a>
-	<br/>
 </p>
 <br/>
 <summary><b>⚡ Top Languages</b></summary>
