@@ -64,7 +64,7 @@
 
 <p align="center">
 	<a href="https://github.com/JaviGT97">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGT97&langs_count=8layout=compact&theme=dark" alt="JaviGT97">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGT97&langs_count=8&layout=compact&theme=dark" alt="JaviGT97">
 	</a>
 	<br/>
 <br/>
