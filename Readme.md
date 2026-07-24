@@ -37,7 +37,10 @@
     </td>
     <td width="35%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaviGT97&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" width="100%" />
+        <img src="https://img.shields.io/badge/A%C3%B1os%20programando-6-6C6CF0?style=for-the-badge&logo=codeium" /><br>
+        <img src="https://img.shields.io/badge/Proyectos%20p%C3%BAblicos-12-6C6CF0?style=for-the-badge&logo=github" /><br>
+        <img src="https://img.shields.io/github/followers/JaviGT97?style=for-the-badge&logo=github&color=6C6CF0" /><br>
+        <img src="https://img.shields.io/badge/Estudiando-DAW-22c55e?style=for-the-badge&logo=astro" />
       </div>
     </td>
   </tr>
@@ -185,12 +188,6 @@
   </table>
   <br>
   <img src="https://ghchart.rshah.org/6C6CF0/JaviGT97" alt="GitHub Contribution Chart" width="95%" />
-  <br><br>
-  <details>
-    <summary>📈 Más estadísticas</summary>
-    <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=JaviGT97&theme=onedark&no-frame=true&no-bg=true&column=5&margin-w=10" width="95%" />
-  </details>
 </div>
 
 <br>
