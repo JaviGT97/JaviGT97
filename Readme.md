@@ -170,25 +170,27 @@
 <div align="center">
   <h3>📊 GitHub</h3>
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaviGT97&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" />
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaviGT97&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaviGT97&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=6" />
-    <img width="41%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaviGT97&layout=compact&theme=default&hide_border=true&langs_count=6" />
-  </picture>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Repos-12-6C6CF0?style=for-the-badge&logo=github" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/followers/JaviGT97?style=for-the-badge&logo=github&color=6C6CF0" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Stars-0-6C6CF0?style=for-the-badge&logo=github" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://ghchart.rshah.org/6C6CF0/JaviGT97" alt="GitHub Contribution Chart" width="95%" />
   <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JaviGT97&theme=react-dark&hide_border=true&bg_color=0D1117" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaviGT97&theme=github-light&hide_border=true" />
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=JaviGT97&theme=onedark&no-frame=true&no-bg=true&column=5&margin-w=10" />
-    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=JaviGT97&theme=flat&no-frame=true&column=5&margin-w=10" />
-  </picture>
+  <details>
+    <summary>📈 Más estadísticas</summary>
+    <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=JaviGT97&theme=onedark&no-frame=true&no-bg=true&column=5&margin-w=10" width="95%" />
+  </details>
 </div>
 
 <br>
