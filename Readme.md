@@ -70,7 +70,7 @@
       <h3 align="center">AnalizadorCV</h3>
       <p align="center">
         <a href="https://github.com/JaviGT97/AnalizadorCV" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaviGT97&repo=AnalizadorCV&theme=dark" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JaviGT97&repo=AnalizadorCV&theme=dark" />
         </a>
       </p>
       <p align="center">CV analyzer with ATS scoring, keyword matching, PDF upload & multi-sector examples</p>
@@ -82,7 +82,7 @@
       <h3 align="center">Portfolio</h3>
       <p align="center">
         <a href="https://github.com/JaviGT97/portfolio" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaviGT97&repo=portfolio&theme=dark" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JaviGT97&repo=portfolio&theme=dark" />
         </a>
       </p>
       <p align="center">Professional portfolio built with Astro, featuring projects, skills, timeline & certifications</p>
@@ -96,7 +96,7 @@
       <h3 align="center">Tu Peluquero</h3>
       <p align="center">
         <a href="https://github.com/JaviGT97/Tu_Peluquero" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaviGT97&repo=Tu_Peluquero&theme=dark" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JaviGT97&repo=Tu_Peluquero&theme=dark" />
         </a>
       </p>
       <p align="center">Barbershop management app with booking system and service administration</p>
@@ -108,7 +108,7 @@
       <h3 align="center">Punto de Venta</h3>
       <p align="center">
         <a href="https://github.com/JaviGT97/Punto_Venta" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaviGT97&repo=Punto_Venta&theme=dark" />
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JaviGT97&repo=Punto_Venta&theme=dark" />
         </a>
       </p>
       <p align="center">Multi-platform POS system built with Kotlin for retail management and sales</p>
@@ -128,12 +128,12 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=JaviGT97&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+  <img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JaviGT97&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=JaviGT97&theme=dark&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGT97&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaviGT97&langs_count=8&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 </p>
 
 <p align="center">
